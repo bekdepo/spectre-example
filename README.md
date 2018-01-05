@@ -9,3 +9,8 @@ the papers directory.
 nix-build
 ./result/bin/spectre-example01
 ```
+
+## References
+
+https://spectreattack.com/
+https://lists.llvm.org/pipermail/llvm-commits/Week-of-Mon-20180101/513630.html
